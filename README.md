@@ -94,7 +94,7 @@
   [![Profile Views](https://visitcount.itsvg.in/api?id=MFrncM&icon=5&color=6)](https://visitcount.itsvg.in)
   
   <br/>
-  <sub>Last updated: <strong>$(date +'%B %Y')</strong></sub>
+  <sub>Last updated: <strong>September 2024</strong></sub>
 </div>
 
 ---
